@@ -1,6 +1,0 @@
-Ethash=Ethereum(ETH)=la comande
-Ethash=Pirl(PIRL)=ladeuxiemecommande
-Ethash=Hush(HUSH)=trioollol
-Equilhash=Zclassic(ZCL)=lolilop
-Ethash=Musicoin(MUSIC)=mdr ca marche
-Ethash=Expanse(EXP)=et une de plus
